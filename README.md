@@ -1055,7 +1055,9 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
      - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`🧋FOSS`</sup>
      - `MDY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`🧋FOSS`</sup>
-     - `MDY` [Claw](https://apt.izzysoft.de/fdroid/index/apk/dev.msfjarvis.claw.android) <sup>`🧋FOSS`</sup>
+     - `MDY` [Claw](https://apt.izzysoft.de/fdroid/index/apk/dev.msfjarvis.claw.android)
+     - `MDY` [Fenrir for VK] (https://github.com/umerov1999/Fenrir-for-VK) <sup>`👻`</sup> <sup>`🧋FOSS`</sup> <sup>`🌎 ru-RU`</sup>
+     - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`🧋FOSS`</sup> <sup>`🌎 ru-RU`</sup>
      - `MY` [Infinity For Everything](https://github.com/everything-gripe/Infinity-For-Everything) <sup>`🧋FOSS`</sup>
      - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`🧋FOSS`</sup>
      - `MD` [FediLab](https://codeberg.org/tom79/Fedilab) <sup>`🧋FOSS`</sup>
@@ -1097,7 +1099,6 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Simple SMS Messager](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) <sup>`🧋FOSS`</sup>
      - `MDY` [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) <sup>`🧋FOSS`</sup>
      - `MDY` [Right Messages](https://play.google.com/store/apps/details?id=com.goodwy.smsmessenger)
-     - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`🧋FOSS`</sup> <sup>`🌎 ru-RU`</sup>
      - `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
      - `MD` [WhatsApp Buisness](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 
