@@ -448,7 +448,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Another Notes App](https://github.com/maltaisn/another-notes-app) <sup>`🧋FOSS`</sup>
      - `MDY` [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`🧋FOSS`</sup>
      - `MDY` [WishApp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp) <sup>`🧋FOSS`</sup>
-     - `MDY`  [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu&hl=en_US&gl=US) <sup>`🧋FOSS`</sup>
+     - `MDY`  [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu&hl=en_US&gl=US)
      - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`🌆zh-CN`</sup>
      - `MDY` [Simple Notes (Yang's Codehub)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp)
      - `MDY` [Saber](https://github.com/adil192/saber) <sup>`🧋FOSS`</sup>
